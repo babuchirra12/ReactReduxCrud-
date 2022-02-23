@@ -1,0 +1,35 @@
+{
+  "user": [
+    {
+      "name": "babu Chirra",
+      "address": "json-server",
+      "email": "typicode",
+      "contact": "988845",
+      "id": 1
+    },
+    {
+      "name": "babu2",
+      "address": "json-server",
+      "email": "typicode",
+      "contact": "988845",
+      "id": 2
+    },
+    {
+      "name": "babu3",
+      "address": "json-server",
+      "email": "typicode",
+      "contact": "988845",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
